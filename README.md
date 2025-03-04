@@ -4,8 +4,6 @@ A data validation framework using Great Expectations (GX Core) to ensure data qu
 ## About This Repository
 This repository is a humble attempt to demonstrate and promote the usage of Great Expectations (GX Core), a powerful open-source data validation framework. While the official documentation comprehensively covers all features, this repository aims to provide a practical, step-by-step example that newcomers can follow easily.
 
-This repository accompanies the blog post ["Data Validation Framework using Great Expectations (GX Core): Ensuring Data Quality at Scale"](#) (link coming soon).
-
 ## Author
 **Anand Ramkumar**
 - LinkedIn: [Anand Ramkumar](https://www.linkedin.com/in/anand-ramkumar-04675a1b2)
@@ -113,12 +111,6 @@ Access validation results in your browser:
 Current implementation validates:
 - `pickup_date` is not null
 - `passenger_count` is between 0 and 6
-
-## Contributing
-Feel free to extend the validation rules or improve the implementation.
-
-## Further Reading
-For a detailed walkthrough and additional insights, check out the accompanying blog post: ["Data Validation Framework using Great Expectations (GX Core): Ensuring Data Quality at Scale"](#) (link coming soon)
 
 ## Credits and Acknowledgments
 This implementation is entirely based on [Great Expectations](https://greatexpectations.io/), a remarkable open-source framework created by the talented team at Great Expectations. We are deeply grateful to:

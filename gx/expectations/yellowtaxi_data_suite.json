@@ -1,0 +1,28 @@
+{
+  "expectations": [
+    {
+      "id": "f4724585-1331-4655-ab3e-6eb40ff1e86c",
+      "kwargs": {
+        "column": "pickup_date"
+      },
+      "meta": {},
+      "type": "expect_column_values_to_not_be_null"
+    },
+    {
+      "id": "1c1454e5-3684-477f-8d99-776e7cc9b166",
+      "kwargs": {
+        "column": "passenger_count",
+        "max_value": 6.0,
+        "min_value": 0.0
+      },
+      "meta": {},
+      "type": "expect_column_values_to_be_between"
+    }
+  ],
+  "id": "a2ea01cf-a085-4514-8bcf-2974f1d0ff29",
+  "meta": {
+    "great_expectations_version": "1.3.7"
+  },
+  "name": "yellowtaxi_data_suite",
+  "notes": null
+}

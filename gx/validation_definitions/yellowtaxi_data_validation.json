@@ -1,0 +1,22 @@
+{
+  "data": {
+    "asset": {
+      "id": "0820b7ee-c794-484c-9295-de492531ddeb",
+      "name": "yellowtaxi_data"
+    },
+    "batch_definition": {
+      "id": "08d6321c-71c0-4327-b22f-9a9b4619685d",
+      "name": "yellowtaxi_full_table_batch"
+    },
+    "datasource": {
+      "id": "648474da-1ee0-4a28-8a85-ae7483c99dfc",
+      "name": "pg_datasource"
+    }
+  },
+  "id": "d026ee83-0b39-446c-b936-72e5257d9652",
+  "name": "yellowtaxi_data_validation",
+  "suite": {
+    "id": "a2ea01cf-a085-4514-8bcf-2974f1d0ff29",
+    "name": "yellowtaxi_data_suite"
+  }
+}
