@@ -26,7 +26,7 @@ The following diagram illustrates the complete workflow of data validation using
 This workflow consists of five main stages:
 1. **Setup & Data Connection**: Initialize the framework and connect to data sources
 2. **Define Expectations**: Create and configure data quality rules
-3. **Run Validations**: Execute data validation checks
+3. **Validations**: Execute data validation checks
 4. **Data Docs**: Generate and view validation results
 5. **Actions and Checkpoints**: Automate and monitor validations
 
